@@ -76,7 +76,7 @@ func runDeployCmd(cmd *cobra.Command, args []string) error {
 	// Ending message.
 	cgapp.ShowMessage(
 		"",
-		"Have a great project launch! :)",
+		"Have a nice project launch! :)",
 		false, true,
 	)
 
